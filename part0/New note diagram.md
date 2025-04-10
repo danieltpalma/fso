@@ -1,6 +1,6 @@
 Here is a simple flow chart:
 
-```sequenceDiagram
+```mermaid
     participant browser
     participant server
 
